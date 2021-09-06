@@ -1,0 +1,5 @@
+# Rules for encrypting keys
+creation_rules:
+- encrypted_regex: >-
+    (?i)password|token|key|secrets
+  age: age16eykj4lcqcttc9l404wn30nllyeux9eqwzprmqkwgd04nrc5nexse7gtd3
